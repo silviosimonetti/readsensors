@@ -3,6 +3,7 @@ dies ist eine erste Änderung
 <<<<<<< HEAD
 Lukas Strohmer:
 1
+2
 =======
 Klotz Stefan
 Ich habe mir die Datei geklont.
