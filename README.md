@@ -5,7 +5,8 @@ Erst wenn ihr damit klar kommt macht die Änderungen in dieser Datei.
 
 
 Kneidl
--Meine erste Aenderung hier nach einem steinigen Weg!
+-
+Meine erste Aenderung hier nach einem steinigen Weg!
 
 Max
 -
