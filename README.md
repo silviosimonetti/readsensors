@@ -26,11 +26,16 @@ Stefan
 -
 Ich wünsche allen einen Guten Morgen!
 
+Eine Runde FIFA zocken?!
+
 Kostal Dominik
 -
 
 Mayer Dominik
 -
+I honn Haus des Geldes schun längst fertig. 
+2 Änderung :D
+3 Änderung erledigt :D
 
 Elias
 -
@@ -43,16 +48,23 @@ Eine 2. Änderung
 
 Max, na bisch nt;P
 
+Und wia hoschs gfundn Mayer?
+
 
 Alex
 -
 
 Moritz
 -
+Meine erste Änderung
+
+Meien zweite Änerung
 
 Lukas
 -
 Haus des Geldes angefangen
+
+12.09 Änderung
 
 Sebastian
 -
