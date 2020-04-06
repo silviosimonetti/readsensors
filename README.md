@@ -31,7 +31,7 @@ Stefan
 -
 Ich wünsche allen einen Guten Morgen! Eine Runde FIFA zocken?! Allen noch einen schönen Abend.
 
-Guten Morgen, habt ihr alle gut geschlafen?
+Guten Morgen, habt ihr alle gut geschlafen? Serien schauen!
 
 Kostal Dominik
 -
