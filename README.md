@@ -3,6 +3,8 @@ bitte erstellt zuerst eine eigene Datei und macht dort drei Änderungen.
 
 Erst wenn ihr damit klar kommt macht die Änderungen in dieser Datei. 
 
+Vergesst nicht zu lernen! 
+
 
 Kneidl
 -
@@ -10,6 +12,7 @@ Meine erste Aenderung hier nach einem steinigen Weg!
 Und noch eine!
 21.00 Uhr und immer noch wach.
 Auch um 23.14 noch wach.
+Guten Tag allerseits!!
 
 Max
 -
@@ -28,9 +31,9 @@ Tobias
 
 Stefan 
 -
-Ich wünsche allen einen Guten Morgen!
+Ich wünsche allen einen Guten Morgen! Eine Runde FIFA zocken?! Allen noch einen schönen Abend.
 
-Eine Runde FIFA zocken?!
+Guten Morgen, habt ihr alle gut geschlafen? Serien schauen! Ich wünsche allen einen schönen Abend.
 
 Kostal Dominik
 -
@@ -40,6 +43,8 @@ Mayer Dominik
 I honn Haus des Geldes schun längst fertig. 
 2 Änderung :D
 3 Änderung erledigt :D
+NOU UANE!!!
+Es gib coolere Serien als dei
 
 Elias
 -
@@ -64,11 +69,23 @@ Meine erste Änderung
 
 Meien zweite Änerung
 
+Meine dritte Änderung
+
+Meine vierte Änderung
+
 Lukas
 -
 Haus des Geldes angefangen
 
 12.09 Änderung
+
+Steve morgen Aut?
+
+Guaten Morgen!
+
+guat gessen?
+
+Es ist 18:57
 
 Sebastian
 -
