@@ -26,11 +26,9 @@ Tobias
 
 Stefan 
 -
-Ich wünsche allen einen Guten Morgen!
+Ich wünsche allen einen Guten Morgen! Eine Runde FIFA zocken?! Allen noch einen schönen Abend.
 
-Eine Runde FIFA zocken?!
-
-Allen noch einen schönen Abend.
+Guten Morgen, habt ihr alle gut geschlafen?
 
 Kostal Dominik
 -
