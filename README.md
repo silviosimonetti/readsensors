@@ -70,6 +70,8 @@ Haus des Geldes angefangen
 
 Steve morgen Aut?
 
+Guaten Morgen!
+
 Sebastian
 -
 
