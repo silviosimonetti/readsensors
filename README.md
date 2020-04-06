@@ -3,6 +3,8 @@ bitte erstellt zuerst eine eigene Datei und macht dort drei Änderungen.
 
 Erst wenn ihr damit klar kommt macht die Änderungen in dieser Datei. 
 
+Vergesst nicht zu lernen! 
+
 
 Kneidl
 -
