@@ -23,6 +23,7 @@ Hey Leute, ich hoffe Ihr freut euch auf eure Osterferien!
 Luis ist ein Witzbold
 Und noch eine Änderung
 jawoll, deutsch meeting, i love it
+Deutsch war ein reinfall. LG 3CEL
 
 Anna
 -
