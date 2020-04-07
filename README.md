@@ -38,7 +38,7 @@ Ich wünsche allen einen Guten Morgen! Eine Runde FIFA zocken?! Allen noch einen
 
 Guten Morgen, habt ihr alle gut geschlafen? Serien schauen! Ich wünsche allen einen schönen Abend.
 
-Morgen! Lust auf ne Runde Watten?
+Morgen! Lust auf ne Runde Watten? Gute Nacht!
 
 Kostal Dominik
 -
