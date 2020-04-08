@@ -38,7 +38,7 @@ Ich wünsche allen einen Guten Morgen! Eine Runde FIFA zocken?! Allen noch einen
 
 Guten Morgen, habt ihr alle gut geschlafen? Serien schauen! Ich wünsche allen einen schönen Abend.
 
-Morgen! Lust auf ne Runde Watten?
+Morgen! Lust auf ne Runde Watten? Gute Nacht!
 
 Kostal Dominik
 -
@@ -56,6 +56,7 @@ Es isch 13:32
 
 Elias
 -
+Guten Morgen
 
 Luis
 -
@@ -104,5 +105,11 @@ I gea iatz Mittogessen!
 Letzte Änderung
 
 Sebastian
+
+Nun bin ich auch in diesem Dokument angelangt
+
+Ich finde GitHub ist ein sehr tolles Programm
+
+Man kann miteinander sehr gut arbeiten
 -
 
