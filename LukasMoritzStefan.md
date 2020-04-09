@@ -5,6 +5,8 @@ vi Dateiname: Einlesen der Datei und anschließende Veränderung oder Ansicht de
 Stefan Klotz:
 git pull - die aktuelle Datei wird aus dem Repository upgedated!
 
+git checkout master: man gelangt zur aktuellsten Version der Datei
+
 git commit -m: man kann eine Änderung kommentieren
 
 Moritz Schönthaler:
