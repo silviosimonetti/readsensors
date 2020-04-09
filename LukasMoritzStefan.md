@@ -12,3 +12,5 @@ git commit -m: man kann eine Änderung kommentieren
 
 Moritz Schönthaler:
 git push: Läd die bearbeitetet Datei hoch
+git config --global user.name :Passt die Nutzerinformationen an,hier ist es der Name
+git config --global user.email :Passt die Nutzerinformationen an,hier ist es die Email
